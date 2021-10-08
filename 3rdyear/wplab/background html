@@ -1,0 +1,96 @@
+<html>
+<head>
+<style>
+         body {
+            background-image: url("https://thumbs.dreamstime.com/b/fence-painted-turquoise-color-background-texture-fence-board-painted-turquoise-background-color-139085922.jpg");
+         }
+      </style>
+<title>
+Coverpage
+</title>
+<style>
+.column {
+  float: left;
+  width: 32.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<h1 style="color:brown;"><center>Categories</center></h1>
+
+</br>
+</br>
+</br>
+
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\Aarthi\OneDrive\Desktop\website-development\Comic\Comic.jpeg"  height="400" width="400">
+<h1 style="color:indigo;">Comics</h1>
+    
+
+  </div>
+
+<div class="row">
+  <div class="column">
+    <img src="https://i0.wp.com/sfmagazines.com/wp-content/uploads/2015/12/FSF195206x600.jpg?resize=425%2C600&ssl=1"  height="400" width="350">
+    
+<h1 style="color:indigo;">Sci-fi</h1>
+
+  </div>
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\Aarthi\OneDrive\Desktop\website-development\Art\art.jpeg"  height="400" width="400">
+    
+<h1 style="color:indigo;">Art</h1>
+
+  </div>
+<div class="row">
+  <div class="column">
+    <img src="https://image.shutterstock.com/image-vector/cinema-night-film-festival-retro-600w-1193896822.jpg"  height="400" width="350">
+    
+<h1 style="color:indigo;">Entertainment</h1>
+
+  </div>
+<div class="row">
+  <div class="column">
+    <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/food-magazine-cover-template-a05aab02984967898be024b104379ad8_screen.jpg?ts=1561537469"  height="400" width="350">
+<h1 style="color:indigo;">Food</h1>
+    
+
+
+  </div>
+<div class="row">
+  <div class="column">
+    <img src="https://i.pinimg.com/originals/c1/ef/25/c1ef25e8101d892945be263088ac46df.jpg"  height="400" width="400">
+    
+<h1 style="color:indigo;">Fashion</h1>
+
+  </div>
+<div class="row">
+  <div class="column">
+    <img src="https://i.pinimg.com/474x/70/24/c7/7024c70c8edf1697a5b216219c36a5c3.jpg"  height="400" width="400">
+<h1 style="color:indigo;">Travel</h1>    
+
+  </div>
+<div class="row">
+  <div class="column">
+    <img src="https://cdn.shopify.com/s/files/1/1239/4342/products/HENRY-CRUZ-SOCCER-BG.jpg?v=1522350355"  height="400" width="350">
+    
+<h1 style="color:indigo;">Sports</h1>
+
+  </div>
+
+
+  </div>
+</body>
+</html>
